@@ -1,0 +1,16 @@
+id: IAC5A8114
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:06:25.555578
+last_modified: 2023-02-10 00:06:25.555728
+source_metadata:
+  title: 'MSV 3,0: Bhikṣuṇīprātimokṣa'
+  language: zh
+bases:
+  '8478':
+    base_file: 8478.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
